@@ -5,5 +5,6 @@ def count_elements(array)
       new_hash[animal] += 1
     else
       new_hash[animal] = 1
+    end
+  end
 end
- 
